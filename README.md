@@ -1,3 +1,16 @@
+---
+license: mit
+library_name: pytorch
+pipeline_tag: text-generation
+language:
+  - en
+tags:
+  - xens
+  - xen
+  - pytorch
+  - custom-architecture
+---
+
 # XEN-GEN1-T-Code
 
 XEN-GEN1-T-Code is the coding-specialized model in the XEN family.
